@@ -2,6 +2,8 @@
 
 A documented baseline for comparing how Google AI Mode answers UAE buyer questions in English and Arabic. [Read the dated study](https://www.vistabylara.com/blog/google-ai-mode-dubai-english-arabic-test).
 
+[![Google AI Mode study design](assets/bilingual-study-design.png)](assets/bilingual-study-design.png)
+
 ## Baseline and evidence
 
 On 14 November 2026, Vista ran six searches across three buying tasks and two languages. The study records the providers and sources seen in those answers.
